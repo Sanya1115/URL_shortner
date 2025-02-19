@@ -6,7 +6,7 @@ import { writeFile } from "fs/promises";
 // import { fileURLToPath } from "url";
 
 
-const PORT = 3002;
+const PORT = 10000;
 
 // const __filename = fileURLToPath(import.meta.url);
 // const __dirname = path.dirname;
